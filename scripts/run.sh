@@ -2,3 +2,4 @@
 set -eu
 
 echo "steamdeck-pxe-llm"
+# clarify the control flow
