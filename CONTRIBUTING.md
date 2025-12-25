@@ -7,3 +7,4 @@ Notes and usage details for steamdeck-pxe-llm.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
